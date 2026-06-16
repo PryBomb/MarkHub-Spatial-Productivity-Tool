@@ -1,4 +1,4 @@
-
+This project serves as my Day 1 submission for the Kaggle Intensive, focusing on building the core architectural foundation for a unified productivity engine.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
